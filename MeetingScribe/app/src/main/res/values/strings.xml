@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeetingScribe</string>
+    <string name="notification_channel_name">Meeting Recording</string>
+    <string name="recording_in_progress">Recording meeting…</string>
+</resources>
